@@ -1,7 +1,5 @@
 {
   "forwardingGateway": {
-    "allowedForwardedHosts": [
-      "20.219.115.112"
-    ]
+    "allowedForwardedHosts": []
   }
 }
