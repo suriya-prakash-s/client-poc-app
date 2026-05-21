@@ -1,5 +1,7 @@
 {
   "forwardingGateway": {
-    "allowedForwardedHosts": []
+    "allowedForwardedHosts": [
+        "noobiedev.ddns.net"
+    ]
   }
 }
